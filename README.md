@@ -1,6 +1,6 @@
 # Hi, I'm Humayoun Khan
 
-##About Me: 
+## About Me: 
 I am a current 3rd year Computer Science, CO-OP Student at Wilfrid Laurier University. 
 
 <!--
