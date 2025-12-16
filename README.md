@@ -1,5 +1,8 @@
 # Hi, I'm Humayoun Khan
 
+##About Me: 
+I am a current 3rd year Computer Science, CO-OP Student at Wilfrid Laurier University. 
+
 <!--
 **HumayounKhan09/HumayounKhan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
