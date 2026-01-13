@@ -20,8 +20,7 @@ Runway focuses on converting vague stress into clear, doable action.
 - **Breakdown** — guided step-by-step execution support using CBT-style strategies (bite-sized steps, momentum, and accountability)
 
 **Status:** Actively building  
-**Demo:** *(add link)*  
-**Repo:** *(add link)*
+**Repo:** Private
 
 ---
 
@@ -35,8 +34,15 @@ Built to help teams triage calls faster by extracting structured signals from me
 - entity extraction (amounts, dates, phone numbers, loan numbers)
 - risk scoring (low / medium / high)
 
-**Tech:** Python, regex/NLP pipeline, test suite-driven development  
-**Repo:** *(add link)*
+**Tech:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regex-2F2F2F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
+**Repo:** https://github.com/HumayounKhan09/Transcript_triage_linter
 
 ---
 
@@ -49,8 +55,13 @@ Built multiple AI strategies and integrated Gemini for gameplay experimentation.
 - Gemini integration
 - performance optimization across the codebase
 
-**Tech:** *(add languages/tools here)*  
-**Repo:** *(add link)*
+**Tech:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+**Repo:** https://github.com/Y-X-B-G/Tic_Tac_Toe
 
 ---
 ## 💻 Tech Stack
@@ -98,8 +109,7 @@ Built multiple AI strategies and integrated Gemini for gameplay experimentation.
 - LinkedIn: https://www.linkedin.com/in/humayoun-k-569890272/
 - Email: [Avlaible on Request]
 
-Thanks for stopping by — if you’re building something ambitious and need someone who ships, I’m interested.
-x
+Thanks for stopping by — if you're building something ambitious and need someone who ships, I'm interested.
 
 
 
