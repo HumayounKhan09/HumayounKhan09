@@ -95,8 +95,8 @@ Built multiple AI strategies and integrated Gemini for gameplay experimentation.
 ---
 
 ## 📫 Contact
-- LinkedIn: *(add link)*
-- Email: *(add email or “available on request”)*
+- LinkedIn: https://www.linkedin.com/in/humayoun-k-569890272/
+- Email: [Avlaible on Request]
 
 Thanks for stopping by — if you’re building something ambitious and need someone who ships, I’m interested.
 x
