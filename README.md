@@ -1,30 +1,30 @@
 # Hi, I’m Humayoun Khan 👋
 
 I'm a 3rd-year Computer Science Co-op student at Wilfrid Laurier University.  
-I like building practical systems fast — especially tooling that helps people and teams make better decisions with less friction.
+I like building practical systems fast, especially tooling that helps people and teams make better decisions with less friction.
 
 - Interests: applied AI, workflow automation, developer tooling, product-minded engineering
 - Strengths: Python, building MVPs quickly, turning messy inputs into structured outputs
 
 ---
 
-## 🚀 Featured Projects
+## Work Experience
 
-### 🧠 Runway (In Progress)
+### 
 **An intelligent “get-unstuck” system for neurodivergent students and professionals in demanding fields.**  
 Runway focuses on converting vague stress into clear, doable action.
 
 **Core engines:**
 - **Parser** — extracts tasks + sentiment from user input  
 - **Clarifier** — interactive flow that turns ambiguity into an actionable task  
-- **Breakdown** — guided step-by-step execution support using CBT-style strategies (bite-sized steps, momentum, and accountability)
+- **Breakdown** — guided step-by-step execution support using Cognitive Behavioural Therapy strategies (bite-sized steps, momentum, and accountability)
 
-**Status:** Actively building  
-**Repo:** Private
+**Status:** Co-Op project at Wilfrid Laurier University
 
 ---
+## Projects
 
-### 🧾 Transcript Triage Linter (Completed / MVP)
+### 🧾 Mortgage Transcript Analyzer (Completed / MVP)
 **Deterministic transcript parser for mortgage servicing workflows.**  
 Built to help teams triage calls faster by extracting structured signals from messy conversations.
 
@@ -32,7 +32,7 @@ Built to help teams triage calls faster by extracting structured signals from me
 - intent classification (payment, hardship, escrow inquiry, etc.)
 - escalation trigger detection (legal threats, abusive language, supervisor requests)
 - entity extraction (amounts, dates, phone numbers, loan numbers)
-- risk scoring (low / medium / high)
+- risk scoring (low/medium/high)
 
 **Tech:**  
 <p align="left">
@@ -46,7 +46,7 @@ Built to help teams triage calls faster by extracting structured signals from me
 
 ---
 
-### ❌⭕ Tic Tac Toe AI Agent (Team Project)
+### ❌⭕ Adversarial AI Benchmarking Agent (Tic Tac Toe - Team Project)
 Built multiple AI strategies and integrated Gemini for gameplay experimentation.
 
 **My contributions:**
@@ -107,7 +107,7 @@ Built multiple AI strategies and integrated Gemini for gameplay experimentation.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/humayoun-k-569890272/
-- Email: [Avlaible on Request]
+- Email: [Available on Request]
 
 Thanks for stopping by — if you're building something ambitious and need someone who ships, I'm interested.
 
