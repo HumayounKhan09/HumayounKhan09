@@ -1,7 +1,7 @@
 # Hi, I'm Humayoun Khan 👋
 
 I'm a 3rd-year Computer Science Co-op student at Wilfrid Laurier University.
-I like building practical systems fast — especially tooling that helps people and teams make better decisions with less friction.
+I like building practical systems fast, especially tooling that helps people and teams make better decisions with less friction.
 
 - **Interests:** Applied AI, workflow automation, developer tooling, product-minded engineering
 - **Strengths:** Python, building systems fast, using AI tooling to go from idea to working prototype quickly
